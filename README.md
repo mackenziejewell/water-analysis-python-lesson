@@ -10,7 +10,7 @@ This lesson serves as an introduction to geophysical data analysis in Python. Fo
 ## Lesson 2:
 https://mackenziejewell.github.io/water-analysis-python-lesson/lab/index.html
 
-This lesson serves as an intermediate geophysical data analysis in Python, offering more advanced data analysis tasks than those in Lesson 1 to demonstrate the capatibilities of Python. Directly interact with a pre-coded JupyterLite tutorial to analyze oceanographic conditions in the Southeast Bering Sea after downloading buoy data from the National Data [Buoy Center](https://www.ndbc.noaa.gov/).
+This lesson serves as an intermediate geophysical data analysis in Python, offering more advanced data analysis tasks than those in Lesson 1 to demonstrate the capatibilities of Python. Directly interact with a pre-coded JupyterLite tutorial to analyze oceanographic conditions in the Southeast Bering Sea after downloading buoy data from the [National Data Buoy Center](https://www.ndbc.noaa.gov/).
 
 <!-- 
 - How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
