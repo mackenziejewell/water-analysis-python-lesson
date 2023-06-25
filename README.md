@@ -4,7 +4,9 @@
 
 
 ## Lesson 1:
-This lesson serves as an introduction to geophysical data analysis in Python. Follow a written tutorial to create your own Python Notebook in JupyterLite. Learn how to access publicly available river gage data from the [US Geological Survey](https://waterdata.usgs.gov/nwis) and use Python to open, plot, and analyze the data. Perform simple timeseries and statistical analyses of river gage height from the Taku River near Juneau, Alaska.
+https://github.com/mackenziejewell/water-analysis-python-lesson/blob/main/PythonRiverAnalysis.pdf
+
+This lesson serves as an introduction to geophysical data analysis in Python. Download and follow a written tutorial to create your own Python Notebook in JupyterLite. Learn how to access publicly available river gage data from the [US Geological Survey](https://waterdata.usgs.gov/nwis) and use Python to open, plot, and analyze the data. Perform simple timeseries and statistical analyses of river gage height from the Taku River near Juneau, Alaska.
 
 
 ## Lesson 2:
